@@ -63,8 +63,13 @@ Discovered topics were cross-checked against the dataset's existing `news_catego
 
 ## Visualizations
 
-- `/topic_counts.png` — bar chart of article count per topic
-- `/topic_wordclouds.png` — word cloud grid, one per topic, showing the dominant keywords visually
+**Article count per topic:**
+
+![Topic Counts](topic_counts.png)
+
+**Word clouds per topic:**
+
+![Topic Word Clouds](topic_wordclouds.png)
 
 ## Tools Used
 
